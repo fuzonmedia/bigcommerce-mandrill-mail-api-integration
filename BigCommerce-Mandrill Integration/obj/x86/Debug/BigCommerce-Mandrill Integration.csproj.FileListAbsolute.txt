@@ -1,0 +1,29 @@
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\bin\Debug\BigCommerce-Mandrill Integration.exe.manifest
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\bin\Debug\BigCommerce-Mandrill Integration.application
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\bin\Debug\BigCommerce-Mandrill Integration.exe
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\bin\Debug\BigCommerce-Mandrill Integration.pdb
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\bin\Debug\Big-Ebay Inventory Management System.exe
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\bin\Debug\BigCommerce-Asana Integration.exe
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\bin\Debug\Big-Ebay Inventory Management System.pdb
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\bin\Debug\BigCommerce-Asana Integration.pdb
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\MainWindow.baml
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\App.g.cs
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration_MarkupCompile.cache
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.g.resources
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce_Mandrill_Integration.Properties.Resources.resources
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.exe.manifest
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.application
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.exe
+C:\Users\nil\Documents\Visual Studio 2010\Projects\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.pdb
+C:\Users\nil\Downloads\BigCommerce-Mandrill_Integration\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.exe
+C:\Users\nil\Downloads\BigCommerce-Mandrill_Integration\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.pdb
+D:\big-mandrill\BigCommerce-Mandrill_Integration\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.exe
+D:\big-mandrill\BigCommerce-Mandrill_Integration\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.pdb
+I:\My Backups\DriveD\big-mandrill\BigCommerce-Mandrill_Integration\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.exe
+I:\My Backups\DriveD\big-mandrill\BigCommerce-Mandrill_Integration\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.pdb
+D:\My Apps\VS Work\BigCommerce-Mandrill_Integration\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.exe
+D:\My Apps\VS Work\BigCommerce-Mandrill_Integration\BigCommerce-Mandrill Integration\BigCommerce-Mandrill Integration\obj\x86\Debug\BigCommerce-Mandrill Integration.pdb
